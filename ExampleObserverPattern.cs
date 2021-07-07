@@ -13,7 +13,6 @@ public class ExampleObserverPattern : MonoBehaviour
         dinter.NotifyObserver("DinTer】玩輔助都能呼風喚雨？！召喚艾莉露璐Lulu SUP真霜+蘇瑞亞！戰勝年紀的神反應！對面塔隆整場只督我一人！Shurelya's Battlesong Lulu！");
 
         dinter.RemoveObserver(jonas);
-
         dinter.NotifyObserver("【DinTer】跟國人從遊戲吵到語音互噴？！靈魂收割薩科Shaco JG 面具+疊書！陸服才看得到這畫面？報上大名嚇傻國人！Liandry's Anguish+ Soulstealer！");
     }
 
